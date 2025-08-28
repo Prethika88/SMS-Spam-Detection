@@ -56,8 +56,6 @@ pip install -r requirements.txt
 
 4️⃣ Download Required NLTK Resources
 
-Run in Python:
-
 import nltk
 
 nltk.download("stopwords")
