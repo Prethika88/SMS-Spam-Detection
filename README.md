@@ -27,7 +27,9 @@ Gradient Boosting Classifier
 Multinomial Naïve Bayesowered by Streamlit.
 
 ⚙️ Installation
+
 1️⃣ Clone the Repository
+
 git clone https://github.com/Prethika88/SMS-Spam-Detection.git
 cd SMS-Spam-Detection
 
