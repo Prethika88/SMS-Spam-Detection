@@ -26,7 +26,7 @@ Random Forest Classifier
 
 Gradient Boosting Classifier
 
-Multinomial Naïve Bayesowered by Streamlit.
+Multinomial Naive Bayes
 
 
 ⚙️ Installation
