@@ -65,7 +65,7 @@ nltk.download("stopwords")
 
 nltk.download("wordnet")
 
-Run the application : streamlit run app.py
+5.Run the application : streamlit run app.py
 
 ---
 
