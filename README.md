@@ -1,10 +1,13 @@
-**SMS Spam Detection**
+##**SMS Spam Detection**
+
 This project focuses on building a machine learning application that detects whether an SMS message is Spam or Ham (Not Spam).
 The solution uses Natural Language Processing (NLP) for text preprocessing and multiple ML algorithms for classification.
 Additionally, a Streamlit web app is included to provide users with an interactive way to test SMS messages in real time.
 
+---
+
  
- **Features**
+ ##**Features**
 
 * Spam Prediction – Enter an SMS message and instantly get predictions.
 
@@ -14,8 +17,9 @@ Additionally, a Streamlit web app is included to provide users with an interacti
 
 * User-Friendly Web App – Powered by Streamlit.
 
+---
 
-**Models Implemented**
+##**Models Implemented**
 
 * Logistic Regression
 
@@ -26,9 +30,9 @@ Additionally, a Streamlit web app is included to provide users with an interacti
 * Gradient Boosting Classifier
 
 * Multinomial Naive Bayes
+---
 
-
-**Installation**
+##**Installation**
 
 1️.Clone the Repository
 
@@ -63,5 +67,5 @@ nltk.download("wordnet")
 
 Run the application : streamlit run app.py
 
-**License**
+##**License**
 This project is licensed under the MIT License
