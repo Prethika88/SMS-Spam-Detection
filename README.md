@@ -1,4 +1,4 @@
-**SMS Spam Detection**
+## **SMS Spam Detection**
 
 This project focuses on building a machine learning application that detects whether an SMS message is Spam or Ham (Not Spam).
 The solution uses Natural Language Processing (NLP) for text preprocessing and multiple ML algorithms for classification.
