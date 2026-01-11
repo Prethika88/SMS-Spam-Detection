@@ -57,7 +57,7 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
-4. Download Required NLTK Resources
+###4. Download Required NLTK Resources
 
 import nltk
 
