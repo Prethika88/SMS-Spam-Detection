@@ -34,13 +34,13 @@ Additionally, a Streamlit web app is included to provide users with an interacti
 
 ## **Installation**
 
-1️.Clone the Repository
+1️. Clone the Repository
 
 git clone https://github.com/your-username/SMS-Spam-Detection.git
 
 cd SMS-Spam-Detection
 
-2️.Create and Activate Virtual Environment
+2️. Create and Activate Virtual Environment
 
 For Windows:
 
@@ -53,11 +53,11 @@ For Mac/Linux:
 python3 -m venv venv
 source venv/bin/activate
 
-3️.Install Dependencies
+3️. Install Dependencies
 
 pip install -r requirements.txt
 
-4.Download Required NLTK Resources
+4. Download Required NLTK Resources
 
 import nltk
 
@@ -65,7 +65,7 @@ nltk.download("stopwords")
 
 nltk.download("wordnet")
 
-5.Run the application : streamlit run app.py
+5. Run the application : streamlit run app.py
 
 ---
 
